@@ -53,4 +53,13 @@ Contribuidor principal: https://github.com/Carldu12
 
 [![Logo do PHP](https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png)](https://www.php.net/)
 
+## Código da função soma
+
+```javascript
+function soma(a, b){
+    return a + b; 
+}
+```
+
+
 
