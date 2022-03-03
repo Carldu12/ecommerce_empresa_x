@@ -51,4 +51,6 @@ __Melhoria 1__, _melhoria 2_
 
 Contribuidor principal: https://github.com/Carldu12
 
+[![Logo do PHP](https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png)](https://www.php.net/)
+
 
