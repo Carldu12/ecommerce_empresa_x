@@ -49,4 +49,6 @@ __Melhoria 1__, _melhoria 2_
 
 [https://www.linkedin.com/](https://www.linkedin.com/)
 
+Contribuidor principal: https://github.com/Carldu12
+
 
